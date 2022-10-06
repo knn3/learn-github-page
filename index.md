@@ -1,4 +1,4 @@
 ---
-Welcome to my blog
+title: "Welcome to my blog"
 ---
 Hi, my name is Kayn
